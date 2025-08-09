@@ -1,0 +1,22 @@
+/*
+Theme Name: Apex Facade Theme
+Theme URI: https://example.com/
+Author: Apex Facade
+Description: Lightweight corporate theme for Apex Facade.
+Version: 1.0
+Text Domain: apexfacade
+*/
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #F8F9FA;
+    color: #003366;
+}
+
+a {
+    color: #00B4E6;
+}
+
+a:hover {
+    color: #0077B6;
+}
